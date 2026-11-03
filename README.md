@@ -29,6 +29,7 @@ The project uses the public Credit Card Fraud Detection dataset from Kaggle/IBM 
 - Non-fraudulent transactions: 284,315
 
 Most feature columns are anonymized PCA-transformed values, and the `Time` column is excluded from modeling.
+<img width="684" height="305" alt="image" src="https://github.com/user-attachments/assets/0966bea9-6c94-4619-ab89-24dc325e705c" />
 
 Note: the dataset file is intentionally not committed to GitHub because it exceeds GitHub's size limits. Download it separately before running the notebook.
 
